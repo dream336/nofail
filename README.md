@@ -1,0 +1,2 @@
+# nofail
+please
